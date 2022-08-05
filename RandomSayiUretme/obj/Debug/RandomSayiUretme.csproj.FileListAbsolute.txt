@@ -1,0 +1,10 @@
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\RandomSayiUretme\bin\Debug\RandomSayiUretme.exe.config
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\RandomSayiUretme\bin\Debug\RandomSayiUretme.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\RandomSayiUretme\bin\Debug\RandomSayiUretme.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\RandomSayiUretme\obj\Debug\RandomSayiUretme.csproj.AssemblyReference.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\RandomSayiUretme\obj\Debug\RandomSayiUretme.Form1.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\RandomSayiUretme\obj\Debug\RandomSayiUretme.Properties.Resources.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\RandomSayiUretme\obj\Debug\RandomSayiUretme.csproj.GenerateResource.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\RandomSayiUretme\obj\Debug\RandomSayiUretme.csproj.CoreCompileInputs.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\RandomSayiUretme\obj\Debug\RandomSayiUretme.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\c_sharp_form\csharp_ornekler\RandomSayiUretme\obj\Debug\RandomSayiUretme.pdb
